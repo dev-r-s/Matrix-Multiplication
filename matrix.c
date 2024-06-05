@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
- main()
+void main()
 {   char ch;
     do{
     float a[10][10],b[10][10],c[10][10];
