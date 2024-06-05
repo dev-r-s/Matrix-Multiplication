@@ -5,7 +5,6 @@ Matrix multiplication is a binary operation that takes two matrices as input and
 
 If A is an m × n matrix and B is an n × p matrix
 
-<div class="mwe-math-element"><div class="mwe-math-mathml-display mwe-math-mathml-a11y" style="display: none;"><math display="block" xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbf {A} ={\begin{pmatrix}a_{11}&amp;a_{12}&amp;\cdots &amp;a_{1n}\\a_{21}&amp;a_{22}&amp;\cdots &amp;a_{2n}\\\vdots &amp;\vdots &amp;\ddots &amp;\vdots \\a_{m1}&amp;a_{m2}&amp;\cdots &amp;a_{mn}\\\end{pmatrix}},\quad \mathbf {B} ={\begin{pmatrix}b_{11}&amp;b_{12}&amp;\cdots &amp;b_{1p}\\b_{21}&amp;b_{22}&amp;\cdots &amp;b_{2p}\\\vdots &amp;\vdots &amp;\ddots &amp;\vdots \\b_{n1}&amp;b_{n2}&amp;\cdots &amp;b_{np}\\\end{pmatrix}}}">
   <semantics>
     <mrow class="MJX-TeXAtom-ORD">
       <mstyle displaystyle="true" scriptlevel="0">
