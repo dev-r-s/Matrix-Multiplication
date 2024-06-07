@@ -27,3 +27,6 @@ Therefore, AB can also be written as
 Thus the product AB is defined if and only if the number of columns in A equals the number of rows in B, in this case n.
 
 In most scenarios, the entries are numbers, but they may be any kind of mathematical objects for which an addition and a multiplication are defined, that are associative, and such that the addition is commutative, and the multiplication is distributive with respect to the addition. In particular, the entries may be matrices themselves.
+
+Author: Dev
+Project: May 2020
